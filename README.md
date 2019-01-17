@@ -1,0 +1,2 @@
+# AndroidOpenCVTest
+Android上使用OpenCV的示例
